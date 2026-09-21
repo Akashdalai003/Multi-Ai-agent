@@ -1,2 +1,9 @@
+# Dependencies
 node_modules/
+
+# Environment variables
 .env
+.env.*
+
+# Google/Firebase service account credentials
+Backend/Services/Auth/serviceAccountKey.json
